@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
         morning: {
             label: "08:00 / 教学楼",
             title: "带着早餐的香气赶到教室",
-            text: "早八总有一点匆忙。推开教室门，和同学交换一个眼神，今天的学习就正式开始了。",
+            text: "早八总有一点匆忙。推开教室门，熟悉的铃声响起，今天的学习就正式开始了。",
             image: "../images/education-center.jpg",
             alt: "早晨的教学楼"
         },
@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
         evening: {
             label: "20:30 / 校园广场",
             title: "晚课结束，灯还亮着",
-            text: "回宿舍的路不算长。和同学聊着没说完的话，路灯把熟悉的校园照成了另一种样子。",
+            text: "回宿舍的路不算长。一路聊着没说完的话，路灯把熟悉的校园照成了另一种样子。",
             image: "../images/night-campus.jpg",
             alt: "夜晚的校园广场"
         }
